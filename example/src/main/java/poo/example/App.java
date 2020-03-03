@@ -1,4 +1,4 @@
-package poo.example;
+﻿package poo.example;
 
 /**
  * Hello world!
@@ -37,3 +37,5 @@ public class App
 		smartphone.informarCaracteristicas();			
 	}
 }
+
+//modificacion de archivo y cambio de rama
