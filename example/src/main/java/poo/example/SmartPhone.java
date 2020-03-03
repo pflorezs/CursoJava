@@ -5,7 +5,7 @@ public class SmartPhone extends Celular{
 	//constructor por defecto
 	public SmartPhone() {
 	}
-
+// ESTE ES UN MENSAJE DE CAMBIO DE PRUEBA
 	//constructor con los atributos de la clase incluso los heredados
 	public SmartPhone(String marca, String modelo, String color, float pixelesCamara, float tamanioMemoriaRam,
 			float tamaoDisco) {
